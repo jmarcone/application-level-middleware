@@ -1,0 +1,17 @@
+{
+  "name": "application-level-middleware",
+  "version": "1.0.0",
+  "description": "Using the structure given by ExpressJS “Hello World”, you will have to secure the main page:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
